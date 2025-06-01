@@ -21,7 +21,7 @@ A fun and interactive **Stone Paper Scissors** game built using **HTML**, **CSS*
 
 ## 🎯 Live Demo
 
-Coming Soon via GitHub Pages...
+[Click here to play the game](https://sheikh-abubakr-faisal.github.io/stone-paper-scissors-game/)
 
 ## 👨‍💻 Author
 
